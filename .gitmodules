@@ -4,3 +4,9 @@
 [submodule "reliable.io"]
 	path = reliable.io
 	url = https://github.com/networkprotocol/reliable.io
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg.git
+[submodule "download/yojimbo"]
+	path = download/yojimbo
+	url = https://github.com/networkprotocol/yojimbo.git
